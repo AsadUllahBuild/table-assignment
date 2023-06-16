@@ -1,0 +1,12 @@
+h1{
+    color: blueviolet; background-color: aqua; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+table{
+    color: rgb(194, 11, 11); font-family: 'Courier New', Courier, monospace; background-color: aquamarine;
+}
+li{
+    color: aqua; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+tr:nth-child(even){
+    background-color: rgb(164, 235, 211);
+}
